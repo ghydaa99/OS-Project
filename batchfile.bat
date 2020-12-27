@@ -1,6 +1,3 @@
-﻿
-
-
 dir
 cd
 pause
@@ -10,4 +7,3 @@ echo
 pwd
 exit
 help
-
